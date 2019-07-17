@@ -1,1 +1,1 @@
-![image of Betty] (betty.png)
+![image of Betty](https://ckesterson.github/com/images/betty.png)
